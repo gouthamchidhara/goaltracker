@@ -1,0 +1,20 @@
+{
+  "smoking": {
+    "source": "World Health Organization",
+    "sourceUrl": "https://www.who.int/news-room/questions-and-answers/item/tobacco-health-benefits-of-smoking-cessation",
+    "disclaimer": "General information, not medical advice. Everyone's body is different.",
+    "items": [
+      { "id": "s1", "offsetMinutes": 20,      "rangeText": "20 minutes",  "text": "Heart rate and blood pressure drop." },
+      { "id": "s2", "offsetMinutes": 720,     "rangeText": "12 hours",    "text": "Carbon monoxide level in your blood drops to normal." },
+      { "id": "s3", "offsetMinutes": 20160,   "rangeText": "2–12 weeks",  "text": "Circulation improves and lung function increases." },
+      { "id": "s4", "offsetMinutes": 43200,   "rangeText": "1–9 months",  "text": "Coughing and shortness of breath decrease." },
+      { "id": "s5", "offsetMinutes": 525600,  "rangeText": "1 year",      "text": "Risk of coronary heart disease is about half that of a smoker's." },
+      { "id": "s6", "offsetMinutes": 2628000, "rangeText": "5–15 years",  "text": "Stroke risk is reduced to that of a non-smoker." },
+      { "id": "s7", "offsetMinutes": 5256000, "rangeText": "10 years",    "text": "Lung cancer risk falls to about half that of a smoker; risk of mouth, throat, esophagus, bladder, cervix and pancreas cancer decreases." },
+      { "id": "s8", "offsetMinutes": 7884000, "rangeText": "15 years",    "text": "Risk of coronary heart disease is that of a non-smoker's." }
+    ]
+  },
+  "vaping": { "items": [], "todo": "TODO(owner): add sourced content" },
+  "alcohol": { "items": [], "todo": "TODO(owner): add sourced content (e.g., NIAAA / NHS)" },
+  "cannabis": { "items": [], "todo": "TODO(owner): add sourced content" }
+}

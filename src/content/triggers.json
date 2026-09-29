@@ -1,0 +1,7 @@
+{
+  "smoking": ["Stress", "Friends smoking", "After a drink", "Boredom", "Coffee", "Bad sleep", "After eating"],
+  "vaping": ["Stress", "Seeing others vape", "Boredom", "Driving", "After eating", "Social events"],
+  "alcohol": ["Stress", "Social pressure", "Celebration", "Bad day", "Loneliness", "Boredom"],
+  "cannabis": ["Stress", "Friends using", "Boredom", "Can't sleep", "Social events"],
+  "general": ["Stress", "Boredom", "Tired", "Social pressure", "Bad day", "Loneliness"]
+}

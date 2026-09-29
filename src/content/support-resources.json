@@ -1,0 +1,38 @@
+[
+  {
+    "id": "samhsa",
+    "name": "SAMHSA National Helpline",
+    "description": "Free, confidential, 24/7 treatment referral",
+    "contact": "1-800-662-4357",
+    "type": "call",
+    "showFor": ["recovery"],
+    "region": "US"
+  },
+  {
+    "id": "quitline",
+    "name": "Quitline",
+    "description": "Tobacco cessation support",
+    "contact": "1-800-784-8669",
+    "type": "call",
+    "showFor": ["smoking", "vaping"],
+    "region": "US"
+  },
+  {
+    "id": "crisis",
+    "name": "988 Suicide & Crisis Lifeline",
+    "description": "Call or text for crisis support",
+    "contact": "988",
+    "type": "call_sms",
+    "showFor": ["recovery"],
+    "region": "US"
+  },
+  {
+    "id": "emergency",
+    "name": "Emergency",
+    "description": "For life-threatening situations",
+    "contact": "911",
+    "type": "call",
+    "showFor": ["safety_gate", "emergency"],
+    "region": "US"
+  }
+]
